@@ -10,6 +10,7 @@ ban-l 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.lbb.pub/my-github-repos)
 * [Git GUI,Git Bash,Git CMD之间的区别](http://www.lbb.pub/articles/2019/09/09/1568035239881.html)
 * [war包方式部署solo博客](http://www.lbb.pub/articles/2019/09/09/1568035117743.html)
 * [/var/log/mysqld.log 中找不到初始密码](http://www.lbb.pub/articles/2019/09/09/1568034945349.html)
